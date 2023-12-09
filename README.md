@@ -1,2 +1,2 @@
 # Datagit
-This is data visualization project 
+This is my data visualization project 
